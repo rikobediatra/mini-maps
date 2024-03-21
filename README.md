@@ -1,6 +1,7 @@
 # React + TypeScript + Tailwind
 ## A simple google maps using react js with typescript and styling using tailwinds
 
+Visit https://mini-maps.vercel.app/ to know more about the website
 
 ![1](https://github.com/rikobediatra/mini-maps/assets/69576666/e7cbb884-ad75-4375-a6ca-cceeda9a18b0)
 
